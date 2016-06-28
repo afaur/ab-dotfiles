@@ -5,7 +5,7 @@
 1. Clone the base dotfiles
 
   ~~~
-  git clone git://github.com/blainesch/nr-dotfiles.git ~/dotfiles
+  git clone git://github.com/blainesch/ab-dotfiles.git ~/dotfiles
   ~~~
 
 1. Clone your personal dotfiles to `~/dotfiles-local`
